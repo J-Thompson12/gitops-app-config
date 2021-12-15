@@ -4,5 +4,4 @@ metadata:
   name: podinfo-deploy
   namespace: wego-system
 resources:
-- ../../../apps/podinfo-deploy
 - ../../../apps/graf
